@@ -1,0 +1,15 @@
+{"level":30,"time":"2021-05-05T02:59:12.059Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Listening on 61017"}
+{"level":30,"time":"2021-05-05T02:59:12.475Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active context"}
+{"level":30,"time":"2021-05-05T02:59:12.799Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-05T02:59:12.799Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active page"}
+{"level":30,"time":"2021-05-05T02:59:17.034Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-05T02:59:17.143Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-05T02:59:17.951Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-05T02:59:17.999Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Retrieved text for element css=.place-info-box containing \n    \n\n    \n      Pizza Bug\n       4.9\n      Pizzaria\n      25m\n    \n    \n  "}
+{"level":30,"time":"2021-05-05T02:59:18.042Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-05T02:59:18.226Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active context"}
+{"level":30,"time":"2021-05-05T02:59:18.226Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-05T02:59:18.226Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active page"}
+{"level":30,"time":"2021-05-05T02:59:18.244Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active context"}
+{"level":30,"time":"2021-05-05T02:59:18.244Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-05T02:59:18.244Z","pid":5932,"hostname":"LAPTOP-U5DD4OQ7","msg":"Changed active page"}
