@@ -1,5 +1,6 @@
 $ cat .gitattributes
 
-*.ipynb linguist-language=Python
+*.robot linguist-language=Python
+*.robot linguist-language=Robot Framework
 dist/* linguist-vendored
-.ipynb linguist-vendored=true
+.robot linguist-vendored=true
