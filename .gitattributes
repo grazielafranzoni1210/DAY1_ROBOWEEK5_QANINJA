@@ -2,5 +2,7 @@ $ cat .gitattributes
 
 *.robot linguist-language=Python
 *.robot linguist-language=RobotFramework
+*.html linguist-language=Python
 dist/* linguist-vendored
 .robot linguist-vendored=true
+.html linguist-vendored=true
