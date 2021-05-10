@@ -1,6 +1,6 @@
 $ cat .gitattributes
 
 *.robot linguist-language=Python
-*.robot linguist-language=Robot Framework
+*.robot linguist-language=RobotFramework
 dist/* linguist-vendored
 .robot linguist-vendored=true
